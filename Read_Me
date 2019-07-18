@@ -1,1 +1,3 @@
+Ran sentiment analysis on books as well as from a twitter feed by pulling from the API. 
 
+You are able to change which twitter account you would like to pull from. 
